@@ -1,3 +1,9 @@
+/* This file was first created on 16th September,2018 by Keshav Tangri
+This is for educational purposes only.
+This is for B.Tech Students who are or will be studying Data Structures in there curriculum
+For queries mail me @ : tangri57@gmail.com
+*/
+
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
